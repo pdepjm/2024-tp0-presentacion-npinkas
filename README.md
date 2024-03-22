@@ -12,7 +12,7 @@ Estudié en un colegio con orientación a las Ciencias Sociales y Humanidades, p
 
 - Jugar al voley
 - Mirar series: No tengo una serie favorita, pero si tuviera que elegir una, diría que Sherlock es bastante buena.
-- Leer: Mayormente me gusta leer libros de suspenso o policiaes. Diría que mi libro favorito es Misery, de Stephen King.
+- Leer: Mayormente me gusta leer libros de suspenso o policiales. Diría que mi libro favorito es Misery, de Stephen King.
 - Viajar y conocer lugares nuevos
 
 ## Foto:
