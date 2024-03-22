@@ -15,3 +15,6 @@ Estudié en un colegio con orientación a las Ciencias Sociales y Humanidades, p
 - Leer
 - Viajar y conocer lugares nuevos
 
+## Foto mía:
+
+<img src="https://github.com/pdepjm/2024-tp0-presentacion-npinkas/blob/main/Foto%20Presentaci%C3%B3n.jpg" alt="Descripción de la imagen" width="200"/>
