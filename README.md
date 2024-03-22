@@ -1,4 +1,4 @@
-# 2024-tp0-presentacion-npinkas
+# Presentación de Natalia Pinkas
 
 Hola! Mi nombre es Natalia Pinkas y soy estudiante de 2° año de la carrera de Ingeniería en Sistemas.  
 
@@ -11,7 +11,7 @@ Estudié en un colegio con orientación a las Ciencias Sociales y Humanidades, p
 ## Hobbies: 
 
 - Jugar al voley
-- Mirar series
+- Mirar series: No tengo una serie favorita, pero si tuviera que elegir una, diría que Sherlock es bastante buena.
 - Leer
 - Viajar y conocer lugares nuevos
 
