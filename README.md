@@ -12,9 +12,9 @@ Estudié en un colegio con orientación a las Ciencias Sociales y Humanidades, p
 
 - Jugar al voley
 - Mirar series: No tengo una serie favorita, pero si tuviera que elegir una, diría que Sherlock es bastante buena.
-- Leer
+- Leer: Mayormente me gusta leer libros de suspenso o policiaes. Diría que mi libro favorito es Misery, de Stephen King.
 - Viajar y conocer lugares nuevos
 
-## Foto mía:
+## Foto:
 
 <img src="https://github.com/pdepjm/2024-tp0-presentacion-npinkas/blob/main/Foto%20Presentaci%C3%B3n.jpg" alt="Descripción de la imagen" width="200"/>
